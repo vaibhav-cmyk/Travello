@@ -1,4 +1,4 @@
-# Project Name
+# Travello
 
 This is a web application built using Python, Django, and PostgreSQL.  
 It includes user authentication (register, login, logout) and a connected database.
